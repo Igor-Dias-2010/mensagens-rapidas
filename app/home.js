@@ -14,7 +14,7 @@ export default function Home(){
             <Link href="../desculpas"><button>Desculpas</button></Link>
             <Link href="../parabens"><button>Parabéns</button></Link>
             <Link href="../agradecimento"><button>Agradecimento</button></Link>
-            <Link href="../bom dia"><button>Bom dia/tarde/noite</button></Link>
+            <Link href="../bom-dia"><button>Bom dia/tarde/noite</button></Link>
 
         </div>
     )
