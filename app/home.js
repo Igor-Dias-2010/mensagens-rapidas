@@ -2,8 +2,8 @@
 
 import Link from 'next/link'
 
-export default function Home(){
-    return(
+export default function Home() {
+    return (
         <div>
             <h1>Mensagens prontas</h1>
             <h2>Digite o nome e receba o texto já montado</h2>
@@ -15,6 +15,8 @@ export default function Home(){
             <Link href="../parabens"><button>Parabéns</button></Link>
             <Link href="../agradecimento"><button>Agradecimento</button></Link>
             <Link href="../bom-dia"><button>Bom dia/tarde/noite</button></Link>
+            <Link href="../convite"><button>Convite</button></Link>
+            <Link href="../amor"><button>Amor / romance</button></Link>
 
         </div>
     )
